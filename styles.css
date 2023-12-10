@@ -1,0 +1,70 @@
+.fullback{
+    background-color: whitesmoke;
+}
+.cocurri{
+    font-family:  Times New Roman, Times, serif;
+    font-weight: bolder ;
+}
+.cocurripara{
+    font-family:'Courier New', Courier, monospace;
+    font-weight:500;
+}
+
+.contactpara{
+    font-weight:bolder;
+    font-size: large;
+}
+
+.projectspan{
+    font-weight: bold;
+
+}
+
+.flexy{
+    display: flex;
+    align-items: center;
+}
+
+.gridresume{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap:20px;
+    
+    grid-template-rows: 1fr 1fr;
+}
+.grid2{
+    grid-row:span 2;
+}
+
+.hrresume{
+    height:4px;
+}
+
+.tomakebold{
+    font-weight:500;
+    font-size:1.5em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.hrhrhr{
+    position: relative;
+    top: 20px;
+    border: none;
+    height: 12px;
+    background: rgb(0, 0, 0);
+    margin-bottom: 50px;
+}
+
+.fullbacky{
+    background-color:whitesmoke;
+}
+
+.gridyo{
+    font-weight:500;
+    font-size:xx-large;
+}
+
+.listitem{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:1.25em;
+}
